@@ -8,7 +8,7 @@
 
 - 🖥️ Passionate about **coding**, **automation**, and **AI**  
 - 🌍 Exploring **web development** and **backend technologies**  
-- 📚 Always learning and experimenting with new tech!  
+- 📚 Always learning and experimenting with new tech!  (not a pro in tech just an average level :))
 
 ---
 
