@@ -46,4 +46,4 @@
 
 ---
 
-⭐ **Fun Fact:** I'm just 10 years old 
+⭐ **Fun Fact:** I'm just 10 
