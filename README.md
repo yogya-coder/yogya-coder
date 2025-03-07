@@ -35,8 +35,8 @@
 
 ## 📈 GitHub Stats  
 
-![my GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogya-coder&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogya-coder&layout=compact&theme=radical)  
+![my GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogya-coder&show_icons=true&theme=highcontrast)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogya-coder&layout=compact&theme=tokyonight)  
 
 ---
 
